@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatsGallery</string>
+    <string name="cat_desc">Cat</string>
+    <string name="cat">Cat</string>
+    <string name="next">Next</string>
+    <string name="error">404 Error\n Check your internet connection</string>
+    <string name="button_error">Cats love internet</string>
+</resources>
